@@ -1,0 +1,9 @@
+"1. Tendo como dado de entrada a altura (h) de uma pessoa, construa um algoritmo que calcule seu 
+peso ideal, utilizando as seguintes fórmulas:
+a. Para homens: (72.7*h) - 58
+b. Para mulheres: (62.1*h) - 44.7"
+
+Primeiro passo criei as variáveis tendo em mente que cada uma iria receber o seu tipo
+primitivo (de acordo com os dados solicitados);
+Depois priorisei fazer uma condição para validar o uso da formúla de acordo com o gênero do usuário;
+depois de obter os dados necessários só me preocupei em imprir o resultado.
