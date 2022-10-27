@@ -1,0 +1,5 @@
+" 5 - Faça um Programa que peça um número e informe se o número é inteiro ou decimal."
+
+Criei a variável (num) para receber um número inteiro digitado pelo usuário; e,
+E depois criei um parametro para verificar se o número que usuei o "int" para converter o valor é igual ao número
+que foi digitado pelo usuário. Usei o "int(num) para converter, já que ele iria ignorar todos os números depois do ".".

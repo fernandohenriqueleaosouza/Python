@@ -1,0 +1,5 @@
+" 4 - Faça um Programa que peça um número inteiro e determine se ele é par ou ímpar."
+
+Criei a variável (num) para receber um número inteiro digitado pelo usuário;
+Depois na variável (resto) usei para receber o resultado do calculo; e,
+Utilizei o if\else para imprimir o resultado conforme estipulado no parametro.
